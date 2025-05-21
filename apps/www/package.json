@@ -96,7 +96,7 @@
     "zod": "^3.21.4"
   },
   "devDependencies": {
-    "@shikijs/compat": "^1.1.7",
+    "@shikijs/compat": "^2.5.0",
     "@types/lodash": "^4.17.7",
     "@types/node": "^17.0.45",
     "@types/react": "^18.2.65",
